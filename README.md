@@ -1,4 +1,4 @@
-# Employee Burnout Prediction
+# Employee Burnout prediction-AIML
 # Description
 The Employee Burnout Prediction project is a cutting-edge solution designed to leverage the power of machine learning to assess and predict the risk of burnout among employees. Burnout, a significant issue in today’s work environment, can lead to decreased productivity, increased absenteeism, and overall reduced job satisfaction. This project aims to empower organizations with the tools needed to identify employees at risk before burnout becomes a severe problem.
 
